@@ -4,7 +4,7 @@ module.exports = {
     username: 'postgres',
     password: 'postgres',
     database: 'codeburger',
-    dfine: {
+    define: {
         timespamps: true,
         underscored: true,
         underscoredAll: true,

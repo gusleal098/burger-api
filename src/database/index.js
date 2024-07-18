@@ -27,7 +27,7 @@ class database {
 
     mongo(){
         this.mongoConnection = mongoose.connect(
-            'mongodb://mongo:dJNILuyMbJFcxyJmzEHrzvjMoEoVFayw@mongodb.railway.internal:27017')
+            'mongodb://mongo:dJNILuyMbJFcxyJmzEHrzvjMoEoVFayw@monorail.proxy.rlwy.net:20928')
     }
 }
 
